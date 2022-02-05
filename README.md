@@ -2,8 +2,14 @@
 
 Images:
 
-![Lotus - img 1](https://github.com/abressam/hidden-menu-example/blob/main/lotus_1.png)
+<p align="center">
+<img src="https://github.com/abressam/hidden-menu-example/blob/main/lotus_1.png" width="500"/>
+</p>
 
-![Lotus - img 2](https://github.com/abressam/hidden-menu-example/blob/main/lotus_2.png)
+<p align="center">
+<img src="https://github.com/abressam/hidden-menu-example/blob/main/lotus_2.png" height="500"/>
+</p>
 
-![Lotus - img 3](https://github.com/abressam/hidden-menu-example/blob/main/lotus_3.png)
+<p align="center">
+<img src="https://github.com/abressam/hidden-menu-example/blob/main/lotus_3.png" height="500"/>
+</p>
