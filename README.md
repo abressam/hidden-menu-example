@@ -3,7 +3,7 @@
 Images:
 
 <p align="center">
-<img src="https://github.com/abressam/hidden-menu-example/blob/main/lotus_1.png" width="500"/>
+<img src="https://github.com/abressam/hidden-menu-example/blob/main/lotus_1.png"/>
 </p>
 
 <p align="center">
