@@ -6,10 +6,7 @@ Images:
 <img src="https://github.com/abressam/hidden-menu-example/blob/main/lotus_1.png"/>
 </p>
 
-<p align="left">
+<p align="center">
 <img src="https://github.com/abressam/hidden-menu-example/blob/main/lotus_2.png" height="500"/>
-</p>
-
-<p align="right">
 <img src="https://github.com/abressam/hidden-menu-example/blob/main/lotus_3.png" height="500"/>
 </p>
